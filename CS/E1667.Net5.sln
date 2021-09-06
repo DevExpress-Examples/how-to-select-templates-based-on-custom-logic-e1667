@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGrid_TemplateSelector", "DXGrid_TemplateSelector\DXGrid_TemplateSelector.csproj", "{520C3FD0-C802-41C2-B0EA-DB2C43AED936}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGrid_TemplateSelector", "DXGrid_TemplateSelector\DXGrid_TemplateSelector.Net5.csproj", "{520C3FD0-C802-41C2-B0EA-DB2C43AED936}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
